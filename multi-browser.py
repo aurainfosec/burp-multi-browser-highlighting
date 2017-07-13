@@ -1,3 +1,8 @@
+# Author: 	Emmanuel Law
+# Version:	1.0
+# License: 	MIT License
+
+
 from burp import IBurpExtender
 from burp import IHttpListener	
 from burp import IProxyListener
