@@ -8,7 +8,7 @@
 
 A simple burp plugin that highlights the Proxy history to differentiate requests made by different browsers. The way this works is that each browser would be assigned one color and the highlights happen automatically. 
 
-During pentesting, I often have two or more different browsers opened to test issues such as role matrix as well s  how requests in 1 client might affect another. It is however hard to visualize which requests were made by which browser within the proxy histroy. Hence this plug-in was created to help visualize how different requests interleave with one another.
+During pentesting, I often have two or more different browsers opened to test issues such as role matrix as well show requests in 1 client might affect another. It is however hard to visualize which requests were made by which browser within the proxy histroy. Hence this plug-in was created to help visualize how different requests interleave with one another.
 
 
 It is designed to be **non-intrusive**, so highlighting is disabled by default. Turn it on in the Proxy context menu only when you need it.
