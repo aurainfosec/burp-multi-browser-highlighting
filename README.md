@@ -28,3 +28,5 @@ Toggle it on/off within context menu:
 
 
 
+## Author
+Emmanuel Law
