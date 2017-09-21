@@ -1,3 +1,13 @@
+
+
+# Note: This plugin has moved and is now mantained [here](https://github.com/libnex/burp-multi-browser-highlighting/) 
+
+  
+  
+  
+  
+  
+
 # Multi-Browser Highlighting
 
 
